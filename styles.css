@@ -1,0 +1,432 @@
+*{
+    text-decoration: none;
+    
+   
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar{
+    background-color: white;
+   /* width: 1440px; height: 84px;*/
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: px; padding-right: 5px;
+    display: flex; justify-content: center;
+
+}
+.navdiv{
+    display: flex; align-items: center; justify-content: space-between;
+    width: 1358px; height: 50px;
+   
+}
+.logo{
+    font-size: 35px; font-weight: 700; color:#1A497B;
+    display: flex; gap: 8px;
+}
+.logo img{
+    width: 40px;
+}
+.navdiv ul li{
+    list-style: none; display: inline-block;
+}
+.navdiv ul li a{
+    color: black; font-weight: 500; font-size: 18px; margin-right: 44px; font-weight: 500;
+}
+.navbutton{
+    background-color: #2E90FA; margin-left: 10px; border-radius: 12px; padding: 10px; width: 160px; 
+    border-width: 0px;
+}
+.navbutton a{
+    color: white; font-size: 16px; font-weight: 600;
+}
+.head1{
+    background-image: linear-gradient(#FEF0E3,#FEF0E300);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.head1A{
+    font-size: 75px; font-weight: 700;
+    color: #1A497B;
+    padding-top: 70px; 
+    max-width: 695px; margin: 10px auto; text-align: center;
+}
+.head1Subtext{
+    max-width: 600px; margin: 10px auto; text-align: center;      
+   font-size: 20px;
+}
+.getstartedbutton{
+    width: 250px; margin: 10px auto; margin-top: 30px; border-radius: 12px; border-width: 0px; padding: 20px;
+    display: flex; align-items: center;
+    background-color: #2E90FA;
+}
+.getstartedbutton a{
+    color: white; font-size: 18px; font-weight: 700; padding-left: 60px
+}
+.image1{
+    display: flex; justify-content: center; align-items: center;
+}
+.image1 img{
+    width: 1388px;height: 640px; margin: 26px;
+}
+.text1{
+    max-width: 425px; margin: 10px auto; text-align: center;
+    font-size: 18px; color: #838383; margin-bottom: 30px;
+}
+.trustedSch{
+   display: flex; justify-content: center;
+   gap: 72px; margin-top:50px auto;
+}
+.trustedSch img{
+    width: 70 auto; height: 70 auto;
+}
+.head2{
+    margin-top: 100px;
+    display: flex; justify-content: space-between; gap: 40px;
+    margin-bottom: 30px; height: 127px;
+    max-width: 1285px; margin: 10px auto; 
+    margin-top: 40px;
+}
+.head2A{
+    font-size: 48px; font-weight: 500;
+    width: 597px; height: 127px; 
+}
+.head2B{
+    font-size:24px; font-weight: 400; 
+    width: 636px; height: 108px;
+    margin-left: 48px;
+}
+.head3{
+    display: flex; justify-content: center; gap: 30px;
+    margin-top: 25px;
+}
+.head3A{
+    width: 630px; height: 656px; border-radius: 50px;
+    background-color:#2E90FA ;
+}
+.head3B{
+    width: 630px; height: 656px; border-radius: 50px;
+    background-color: #AD0F7C; position: relative;
+}
+.head3i{
+    width: 423px; height: 78px; margin-left: 34px; margin-top: 43px; 
+    font-size: 40px; font-weight: 600; color: white;
+    text-align: left;
+}
+.head3ii{
+   width: 564px; height: 90px; margin-left: 34px; margin-top: 34px;
+   font-size: 20px; font-weight: 500; color: white;
+   text-align: left;
+}
+.image2{
+    width: 298px; height: 613px;
+    margin-left: 135px; margin-top: 44px;
+}
+.image3{
+    width: 294px; height: 343px; position: absolute;
+    left: 230px; top: 328px;
+}
+.image4{
+   width: 195px; height: 178px; position: absolute;
+   left: 40px; top: 300px;
+}
+.head44{
+    display: flex; justify-content: center;
+}
+.head4{
+    width: 1284px ; height: 476px; border-radius: 50px; margin-top: 30px;
+    background-color: #006366;
+    display: flex;
+    position: relative;
+}
+
+.head4A{
+    width: 508px; height: 327px; gap: 24px;
+    margin-left: 83px; margin-top: 103px;
+}
+.head4i{
+    height: 39px; width: 423px;
+    color: white; font-size: 40px; font-weight: 600;
+    line-height: 100px;
+}
+
+.head4ii{
+    height: 90px; width: 400px;
+    color: white; font-size: 20px; font-weight: 500;
+    margin-top: 48px;
+    line-height: 30px;
+    text-align: justify;
+}
+.image5{
+    width: 599px; height: 476px; 
+    position: absolute;
+    margin-left: 699px; 
+    overflow: hidden;
+    border-top-right-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
+.image6{
+    width: 298px; height: 44px; border-radius: 10px;
+    position: absolute;
+    margin-left: 600px; margin-top: 240px;
+}
+.head55{
+    display: flex; justify-content: center;
+}
+
+.head5{
+    width: 1276px; height: 704px; margin-top: 90px;
+    
+}
+.head5A{
+    width: 906px; height: 208px;
+}
+.head5A h1{
+    width: 710px; height: 124px;
+    font-size: 55px; font-weight: 500;
+    margin-left: 280px;
+    text-align: center;
+    line-height: 62px;
+}
+.head5A p{
+    width: 906px; height: 64px;
+    font-size: 25px; font-weight: 400;
+    margin-left: 200px;
+    line-height: 36px;
+    text-align: center;
+}
+.head5B{
+    width: 1276px; height: 464px; margin-top: 55px;
+    display: flex; justify-content: space-between;
+}
+.head5C{
+    width: 30%; height: 436px; gap: 14px;
+    position: relative;
+    
+}
+.head5i{
+   width: 404px; height: 314px; border-radius: 25px;
+   background-color: #EDEEEF;
+}
+.image9{
+    position: absolute;
+    top: 55px; left: 55px;
+}
+.image10{
+    position: absolute;
+    top: 14px; left: 12px;
+}
+.image11{
+    position: absolute;
+    top: 4px; left: 45px;
+}
+.head5C h1{
+    font-size: 24px; font-weight: 700;
+    line-height: 36px;
+}
+.head5C p{
+    font-size: 18px; font-weight: 400;
+    color: #757575;
+    line-height: 28px;
+}
+.head66{
+    display: flex; justify-content: center;
+    
+}
+.head6{
+    width: 1318px; height: 673px; border-radius: 50px; margin-top: 200px;
+    background-color: #FEF0E3;
+    position: relative;
+}
+.head6 p{
+    color: #1A497B;
+    font-size: 22px; font-weight: 500; line-height: 36px;
+    margin-left: 71px; margin-top: 93px; margin-bottom: 35px ;
+}
+.head6A{
+    width: 633px; height: 488px;
+    margin-top: 0px; margin-left: 71px;
+}
+.head6i{
+    width: 527px; height: 129px;
+    font-size: 43px; font-weight: bold;
+    line-height: 36px;
+    text-align: left;   
+}
+.list1{
+    font-size: 21px; font-weight: 400; color: #06122C;
+    list-style: none;
+    /*list-style-image: url(images/listicon.png);*/
+    line-height: 36px;
+    padding-left: 0px;   
+}
+.list1 li{
+    display: flex; gap: 8px; align-items: center;
+}
+.button1{
+    width: 144px; height: 56px; border-radius: 18px; background-color: #2E90FA;
+    margin-top: 50px;
+    border-style: none;
+}
+.button1 a{
+    color: white; font-size: 16px;
+}
+
+.head6B{
+    position: absolute;
+    top: 30px; left: 700px;
+}
+.head77{
+    display: flex; justify-content: center;
+}
+
+.head7{
+    width: 1076px; height: 703px;
+}
+.head7A{
+    width: 620px; height: 116px; margin-left: 228px;
+    font-size: 53px; font-weight: 500; text-align: center;
+    color: #1A497B; margin-top: 80px;
+    position: relative;
+ }
+.head7B{
+    width: 1076px; height: 525px; 
+    margin-top: 40px; margin-left: 14px;
+    border: 1px solid #2E90FA; border-radius: 25px; 
+}
+.head7i{
+    font-size: 20px; font-weight: 600; line-height: 28px; 
+    width: 1076px; height: 138px; 
+    padding-left: 30px; padding-top: 30px;
+    
+}
+.minus{
+    width: 24px; height: 24px;
+    display: flex;
+    position: absolute;
+    padding-left: 992px; margin-top: -23px;
+}
+.head7ii{
+    margin-top: 10px;
+    width: 826px; height: 60px;
+    font-size: 18px; font-weight: 400; line-height: 30px;
+    text-align: left;
+}
+.head7iii{
+    width: 1047px; height: 88px;
+    font-size: 20px; font-weight: 600; line-height: 28px; 
+    padding-left: 30px; 
+    border-top: 1px solid #2E90FA;
+    display: flex; justify-content: space-between;
+}
+.head7iii img{
+    width: 24px; height: 24px;
+    padding-right: 30px; padding-top: 20px;
+}
+.button2{
+    width: 372px; height: 60px;
+    border-radius: 12px;
+    background-color: #2E90FA;
+    color: white; border-width: 0px;
+    margin-top: 45px; margin-left: 350px;
+}
+.button2 a{
+    color: white;
+    font-size: 16px; font-weight: 700; line-height: 24px;
+}
+.head88{
+    display: flex; justify-content: center;
+}
+
+.head8{
+    display: flex;
+    position: relative;
+    margin-top: 280px;
+}
+.head8A img{
+    width: 1283px; height: 488px; border-radius: 50px;  
+    margin-bottom: 40px;  
+}
+.head8B{
+    width: 201px; height: 60px; margin-left: 51px; margin-top: 192px;
+    position: absolute;
+}
+.head8C{
+    width: 201px; height: 60px; margin-left: 266px; margin-top: 192px;
+    position: absolute;
+}
+.head8D{
+    width: 365px; height: 116px; margin-left: 51px; margin-top: 61px;
+    position: absolute;
+}
+
+.footer{
+    display: flex; justify-content: center;
+    background-color: #2061A5;
+    
+}
+.foot1{
+    width: 1440px; height: 514px; 
+    background-color: #2061A5;
+    position: relative;
+}
+.foot2{
+    width: 416px; height: 150px;
+    top: 100px; left: 72px;
+    position: absolute;
+    color: white;
+}
+.foot2 p{
+    font-weight: 400; font-size: 18px; line-height: 30px;
+}
+.foot3{
+    width: 231px; height: 84px;
+    top: 300px; left: 73px;
+    position: relative;
+    font-size: 18px;    
+}
+.foot3 a{
+    color: white;
+    text-decoration: underline;
+}
+.icons{
+    width: 166px; height: 30px;
+    top: 323px; left: 73px;
+    display: flex; gap :10px;
+    margin-top: 15px;
+}
+.icons img{
+    width: 30px; height: 30px;
+}
+
+.foot4{
+    width: 740px; height: 208px;
+    top: 100px; left: 622px; gap: 130px;
+    position: absolute;
+    display: flex; justify-content: space-between;
+}
+.foot5{
+    width: 113px; height: 208px;
+    list-style: none;
+}
+.foot6{
+    width: 166px; height: 168px;
+}
+.foot7{
+   width: 201px; height: 134px; gap:14px; 
+}
+.foot8{
+    width: 1296px; height: 42px;
+    top: 433px; left: 72px; 
+    position: absolute;
+    color: white; text-align: center;
+    font-size: 16px; line-height: 24px; font-weight: 400;
+    border-top: 1px solid white; opacity: 10px;
+}
+.foottext{
+    font-weight: 400; font-size: 18px; line-height: 30px;
+    color: white;
+}
+.foottext1{
+    font-weight: 600; font-size: 20px; line-height: 28px;
+    color: white;
+}
